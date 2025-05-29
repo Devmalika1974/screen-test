@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Screen Mirroring</string>
+
+    <string name="mirroring">Mirroring</string>
+    <string name="video_player">Video Player</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share_app">Share</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- AdMob Test IDs -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_native_test_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_interstitial_test_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_open_app_test_id">ca-app-pub-3940256099942544/9257395921</string>
+
+    <!-- Links -->
+    <string name="rate_us_link">https://play.google.com/store/apps/details?id=com.test.screenmirroring</string>
+    <string name="privacy_policy_url">https://dev-safe-apps.blogspot.com/p/screen-mirroring.html</string>
+    <string name="share_text">Check out this amazing Screen Mirroring app: https://play.google.com/store/apps/details?id=com.test.screenmirroring</string>
+
+</resources>
